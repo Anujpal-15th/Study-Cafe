@@ -4,3 +4,9 @@ header{
     justify-content: space-between;
     padding: 10px 20px;
 }
+.room-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
